@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "238237334004",
+    "project_id": "cadastro-d9365",
+    "storage_bucket": "cadastro-d9365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238237334004:android:7715b96d7ae5791d86a1a1",
+        "android_client_info": {
+          "package_name": "com.mycompany.cnhdigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238237334004-6pulk5n9ce5lsq5gc8ga3g0cdl0t4t2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cnhdigital",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "238237334004-kgjak3ggbg9fbtvejml4cl933dhtb19i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yDr0LHJMp4BBTpMsxiJh-yHntwP9UdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238237334004-kgjak3ggbg9fbtvejml4cl933dhtb19i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238237334004-bcumlathubs3ot1i149hivd4pbvpasrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cnhdigital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
